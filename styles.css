@@ -1,0 +1,237 @@
+body{
+    margin: 0;
+    text-align: center;
+    height: 100%;
+    background-color: #e5ffff;;
+}
+h1{
+    font-size: 5.75em;
+    margin: 40px auto 0px auto;
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+    line-height: 2;
+}
+p{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+    font-size: 2.25em;
+    margin:  0px auto 10px auto;
+    color: #66BFBF;
+    font-weight: normal;
+    font-family: sans-serif;
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: 2em;
+}
+.topcontainer{
+    text-align: center;
+    background-color: #d0ffff;;
+    padding-top: 50px;
+    width: 100%;
+    height: max-content;
+    
+}
+.top-cloud{ 
+    height: 70px;
+    width: auto;
+    padding-top: 0px;
+    margin-right: 250px;
+    position: relative;
+}
+.bottom-cloud{
+    height: 70px;
+    width: auto;
+    margin-right: 100px;
+    position: absolute;
+}
+.mountain{
+    padding-top: 55px;
+    height: 600px;
+    width: auto;
+}
+.middle-container{
+    text-align: center;  
+    padding-top: 100px;
+}
+.bottom-container{
+    font-weight: bold;
+    text-align: center;
+    background-color: #33b0b0;
+}
+.profile{
+    font-size: 2.25em;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    padding-right: 10px;
+    padding-left: 10px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.profilehr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: lightgrey;
+    border-width: 10px;
+    width: 5%;
+    display: inline-block;
+}
+.tanmayimage{
+    height: 300px;
+    
+}
+.skill-row{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.skills{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.development{
+    padding-left: 100px;
+    text-align: center;
+    font-size: 1.90em;
+    width: 60%;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 50px;
+}
+.editing{
+    text-align: center;
+    width: 60%;
+    font-size: 1.90em;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 10px;
+    padding-right: 10px;   
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 50px;
+}
+.music{
+    text-align: center;
+    width: 60%;
+    font-size: 1.90em;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 10px;
+    padding-right: 10px;   
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 50px;
+}
+.imageweb{
+    height: 200px;
+    width: 200px;
+}
+.imageedit{
+    height: 200px;
+    width: 200px;
+}
+.imagemusic{
+    height: 200px;
+    width: 200px;
+}
+.myskills{
+    font-size: 4em;
+    font-family: 'Courier New', Courier, monospace;
+    color: #33b0b0;
+    font-weight: bolder;
+}
+.profiletanmay{
+    text-align: center;
+    font-size: 3em;
+    font-family: 'Courier New', Courier, monospace;
+    color: #33b0b0;
+    font-weight: bold;
+}
+.connect{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+    font-weight: 1000;
+}
+.skillshr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: lightgrey;
+    border-width: 10px;
+    width: 5%;
+    display: inline-block;
+}
+.getintouch{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+}
+.getintouchdescription{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+}
+.btn{
+    text-decoration: none;
+    background-color: #33b0b0;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    font-weight: bolder;
+    padding: 15px 32px;
+    color: black;
+    border-radius: 10px;
+    display: inline-block;
+    margin-bottom: 100px;
+}
+.bottom-container{
+    padding-top: 40px;
+    text-align: center;
+    width: 100%;
+    height: 150px;
+}
+.footer-link1{
+    margin-top: 100px;
+    position: relative;
+    padding-left: 40px;
+    text-align: left;
+    position: relative;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    text-decoration: none;
+    color: #11999E;
+    font-size: 30px;
+}
+.footer-link2{
+    
+    padding-left: 40px;
+    text-align: left;
+    position: relative;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    text-decoration: none;
+    color: #11999E;
+    font-size: 30px;
+}
+.footer-link3{
+   
+    padding-left: 40px;
+    text-align: left;
+    position: relative;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    text-decoration: none;
+    color: #11999E;
+    font-size: 30px;
+}
+
+   
